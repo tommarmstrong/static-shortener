@@ -1,0 +1,14 @@
+{
+  "name": "static-shortener",
+  "version": "1.0.0",
+  "description": "Static link shortener using GitHub Gists",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommarmstrong/static-shortener.git"
+  },
+  "author": "Tommaso Armstrong",
+  "bugs": {
+    "url": "https://github.com/tommarmstrong/static-shortener/issues"
+  },
+  "homepage": "https://github.com/tommarmstrong/static-shortener#readme"
+}
