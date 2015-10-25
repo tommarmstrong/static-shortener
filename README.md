@@ -14,3 +14,8 @@ Link shortener for static sites built using GitHub Gist
 Add new links by editing your gist.  Each ```link``` is an object within the ```links``` object.  The key is the short text you want in the URI and the link object has one property which is the URI of the original link.  
 
 Once you've added a new link you can access it by navigating to /{directory-name}#{short-link-key}.
+
+## To-do
+* Add admin interface
+* Improve 404s
+* Improve install process
